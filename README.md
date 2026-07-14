@@ -68,6 +68,7 @@ Exploration des SI critiques (SOAM, CADAS) de planification des vols. Analyse de
 | # | Challenge | Catégorie | Difficulté | Writeup |
 |---|---|---|---|---|
 | 1 | **Phishing Email** | Email Analysis / Phishing | Easy | [📄 Lire](./letsdefend-writeups/phishing-email) |
+| 2 | **PCAP Analysis** | Network Forensics | Easy | [📄 Lire](./letsdefend-writeups/pcap-analysis) |
 
 ➡️ [Voir tous les writeups](./letsdefend-writeups)
 

@@ -14,6 +14,7 @@ Recueil personnel de mes analyses réalisées sur [LetsDefend](https://letsdefen
 | # | Challenge | Catégorie | Difficulté | Writeup |
 |---|---|---|---|---|
 | 1 | Phishing Email | Email Analysis / Phishing | Easy | [Voir](./phishing-email) |
+| 2 | PCAP Analysis | Network Forensics | Easy | [Voir](./pcap-analysis) |
 
 *Liste mise à jour au fur et à mesure des challenges résolus.*
 
