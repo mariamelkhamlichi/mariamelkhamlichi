@@ -2,7 +2,7 @@
 
 🎓 Élève ingénieure en cybersécurité (4ème année) à l'**EMSI - École Marocaine des Sciences de l'Ingénieur**, Tanger
 🛡️ Orientée défense : SOC, détection, threat hunting, tests d'intrusion
-🔎 Actuellement en recherche d'un **stage de perfectionnement (2 mois, été)**
+🔎 Actuellement en stage chez **Smart Automation Technologies**
 📍 Tanger, Maroc
 
 📫 [Mariam.Elkhamlichi@emsi-edu.ma](mailto:Mariam.Elkhamlichi@emsi-edu.ma) · [LinkedIn](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
