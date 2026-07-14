@@ -22,6 +22,18 @@
 <br>
 `Zabbix` `Cisco` `VPN IPsec` `Pare-feu` `Wireshark` `TLS 1.3`
 
+**Développement & Scripting**
+<br>
+`Python` `Java` `C#` `C++` `C` `PHP` `Bash` `HTML/CSS`
+
+**Systèmes, Outils & Virtualisation**
+<br>
+`Linux (Kali, Ubuntu)` `Docker` `VMware` `Proxmox` `VirtualBox` `Git/GitHub` `.NET` `VS Code`
+
+**Bases de données & Conception**
+<br>
+`SQL (Oracle, MySQL, SQL Server)` `NoSQL` `UML` `Merise`
+
 ---
 
 ## 💼 Expérience professionnelle
