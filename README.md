@@ -52,25 +52,58 @@ Exploration des SI critiques (SOAM, CADAS) de planification des vols. Analyse de
 
 ## 🚀 Projets
 
-| Projet | Description |
-|---|---|
-| [Optimisation d'un SIEM — Réduction des Faux Positifs](./projets/optimisation-siem) | Analyse du bruit de fond, intégration de Threat Intelligence et ajustement des règles de corrélation pour réduire les fausses alertes. |
-| [Écosystème de Détection Résilient (MITRE ATT&CK)](./projets/ecosysteme-detection-mitre) | Pipeline d'ingestion de logs haute disponibilité (Logstash, RabbitMQ), cartographie de couverture avec DeTTECT, règles d'alerte via ELK et ElastAlert. |
-| [Supervision d'Infrastructure & Monitoring (Zabbix)](./projets/supervision-zabbix) | Supervision centralisée réseaux/serveurs, dashboards sur mesure, triggers et alertes automatisées. |
-| [SanadChain](./projets/sanadchain) | Infrastructure à clés publiques décentralisée (dPKI) basée sur la blockchain pour sécuriser les registres fonciers marocains. |
+**[Optimisation d'un SIEM — Réduction des Faux Positifs](./projets/optimisation-siem)**
+Analyse du bruit de fond, intégration de Threat Intelligence et ajustement des règles de corrélation pour réduire les fausses alertes.
+
+**[Écosystème de Détection Résilient (MITRE ATT&CK)](./projets/ecosysteme-detection-mitre)**
+Pipeline d'ingestion de logs haute disponibilité (Logstash, RabbitMQ), cartographie de couverture avec DeTTECT, règles d'alerte via ELK et ElastAlert.
+
+**[Supervision d'Infrastructure & Monitoring (Zabbix)](./projets/supervision-zabbix)**
+Supervision centralisée réseaux/serveurs, dashboards sur mesure, triggers et alertes automatisées.
+
+**[SanadChain](./projets/sanadchain)**
+Infrastructure à clés publiques décentralisée (dPKI) basée sur la blockchain pour sécuriser les registres fonciers marocains.
 
 ---
 
-# 🛡️ LetsDefend Writeups
+<br>
 
-### Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.io)
+# 🛡️🔥 LETSDEFEND WRITEUPS 🔥🛡️
 
-| # | Challenge | Catégorie | Difficulté | Writeup |
-|---|---|---|---|---|
-| 1 | **Phishing Email** | Email Analysis / Phishing | Easy | [📄 Lire](./letsdefend-writeups/phishing-email) |
-| 2 | **PCAP Analysis** | Network Forensics | Easy | [📄 Lire](./letsdefend-writeups/pcap-analysis) |
+### 📌 Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.io)
 
-➡️ [Voir tous les writeups](./letsdefend-writeups)
+<br>
+
+<table>
+<tr>
+<td align="center" width="250">
+
+### 🎣
+**Phishing Email**
+<br>
+`Email Analysis` `Phishing` · Easy
+
+**[📄 Lire le writeup ➜](./letsdefend-writeups/phishing-email)**
+
+</td>
+<td align="center" width="250">
+
+### 🌐
+**PCAP Analysis**
+<br>
+`Network Forensics` · Easy
+
+**[📄 Lire le writeup ➜](./letsdefend-writeups/pcap-analysis)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 👉 [Voir tous les writeups LetsDefend](./letsdefend-writeups)
+
+<br>
 
 ---
 
