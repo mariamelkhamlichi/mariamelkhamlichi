@@ -1,8 +1,11 @@
 # Salut, je suis Mariam 👋
 
 🎓 Élève ingénieure en cybersécurité (4ème année) à l'**EMSI - École Marocaine des Sciences de l'Ingénieur**, Tanger
+<br>
 🛡️ Orientée défense : SOC, détection, threat hunting, tests d'intrusion
+<br>
 🔎 Actuellement en stage chez **Smart Automation Technologies**
+<br>
 📍 Tanger, Maroc
 
 📫 [Mariam.Elkhamlichi@emsi-edu.ma](mailto:Mariam.Elkhamlichi@emsi-edu.ma) · [LinkedIn](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
@@ -12,9 +15,11 @@
 ## 🧰 Compétences
 
 **Cybersécurité & Opérations SOC**
+<br>
 `Nmap` `Metasploit` `Burp Suite` `Wazuh` `Zeek` `ELK Stack` `MITRE ATT&CK` `Threat Hunting` `PKI / dPKI` `Blockchain`
 
 **Réseaux & Supervision**
+<br>
 `Zabbix` `Cisco` `VPN IPsec` `Pare-feu` `Wireshark` `TLS 1.3`
 
 ---
