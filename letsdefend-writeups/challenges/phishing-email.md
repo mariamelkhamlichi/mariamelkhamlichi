@@ -1,7 +1,7 @@
 # Phishing Email
 
 **Catégorie :** Phishing
-**Difficulté :** easy
+**Difficulté :** Easy
 **Statut :** ✅ 100% complété
 
 ## Contexte
