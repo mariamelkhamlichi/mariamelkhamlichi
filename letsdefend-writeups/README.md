@@ -1,31 +1,36 @@
-# Writeups LetsDefend
+# 🛡️ LetsDefend Writeups
 
-Analyses réalisées sur la plateforme [LetsDefend](https://letsdefend.io) : investigation d'alertes SOC, réponse à incidents et résolution de challenges, à l'aide de SIEM, EDR et techniques de threat hunting.
+Recueil personnel de mes analyses réalisées sur [LetsDefend](https://letsdefend.io) : challenges SOC, investigation d'alertes, phishing, forensics réseau et threat hunting.
 
-## 🧩 Challenges
+> Les writeups sont rédigés en français, avec le vocabulaire technique en anglais (norme du domaine).
 
-| Challenge | Catégorie | Résumé |
-|---|---|---|
-| [Phishing Email](./challenges/phishing-email.md) | Phishing | Analyse d'un fichier `.eml` (faux PayPal) : en-têtes usurpés, extraction d'URL malveillante hébergée sur cloud, vérification OSINT (urlscan.io, VirusTotal) → verdict phishing confirmé |
-
-📁 [Voir le détail des challenges](./challenges)
-
-## 🧪 Labs (Alertes SOC)
-
-*À compléter au fur et à mesure.*
-
-| Lab | Type d'alerte | Verdict |
-|---|---|---|
-| *(à venir)* | | |
-
-📁 [Voir le détail des labs](./labs)
+## 👤 Auteure
+**Mariam El Khamlichi** — Élève ingénieure en cybersécurité (défense/SOC) · GitHub : [@mariamelkhamlichi](https://github.com/mariamelkhamlichi)
 
 ---
 
-## Structure d'un writeup
+## 🧩 Challenges
 
-Chaque writeup suit ce format :
-- **Contexte** : description de l'alerte / du challenge
-- **Investigation** : démarche, outils utilisés, requêtes SIEM
-- **IOCs identifiés** : IPs, hashs, domaines, etc.
-- **Conclusion / Verdict** : True Positive / False Positive, mesures prises
+| # | Challenge | Catégorie | Difficulté | Writeup |
+|---|---|---|---|---|
+| 1 | Phishing Email | Email Analysis / Phishing | Easy | [Voir](./phishing-email) |
+
+*Liste mise à jour au fur et à mesure des challenges résolus.*
+
+## 🧪 Labs (Alertes SOC)
+
+*À venir.*
+
+---
+
+## 📂 Structure du dépôt
+
+```
+letsdefend-writeups/
+└── <nom-du-challenge>/
+    ├── README.md        # Le writeup complet
+    └── screenshots/     # Captures d'écran à l'appui
+```
+
+## ⚠️ Disclaimer
+Ces writeups sont réalisés à des fins éducatives. Toutes les analyses sont effectuées dans l'environnement de lab isolé fourni par LetsDefend.
