@@ -17,18 +17,11 @@
 **Réseaux & Supervision**
 `Zabbix` `Cisco` `VPN IPsec` `Pare-feu` `Wireshark` `TLS 1.3`
 
-**Développement & Scripting**
-`Python` `Java` `C#` `C++` `C` `PHP` `Bash` `HTML/CSS`
-
-**Systèmes, Outils & Virtualisation**
-`Linux (Kali, Ubuntu)` `Docker` `VMware` `Proxmox` `VirtualBox` `Git/GitHub` `.NET` `VS Code`
-
-**Bases de données & Conception**
-`SQL (Oracle, MySQL, SQL Server)` `NoSQL` `UML` `Merise`
-
 ---
 
 ## 💼 Expérience professionnelle
+
+**Stage — Smart Automation Technologies** *(en cours)*
 
 **Stage PFA — Amendis**
 Déploiement d'un SOC open-source (Wazuh) pour sécuriser les environnements OT de la DSI. Virtualisation (VMware), configuration centralisée des agents et mise en œuvre de tests de sécurité (FIM, vulnérabilités).
