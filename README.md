@@ -61,6 +61,16 @@ Exploration des SI critiques (SOAM, CADAS) de planification des vols. Analyse de
 
 ## 📝 Writeups LetsDefend
 
+**Challenges**
+
+| Challenge | Catégorie | Résumé |
+|---|---|---|
+| [Phishing Email](./letsdefend-writeups/challenges/phishing-email.md) | Phishing | Analyse d'un fichier `.eml` (faux PayPal) : en-têtes usurpés, extraction d'URL malveillante hébergée sur cloud, vérification OSINT (urlscan.io, VirusTotal) → verdict phishing confirmé |
+
+**Labs (Alertes SOC)**
+
+*À venir.*
+
 ➡️ [Voir tous les writeups](./letsdefend-writeups)
 
 ## 🎓 Certifications
