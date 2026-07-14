@@ -1,6 +1,6 @@
 # 🎣 Phishing Email
 
-![Category](https://img.shields.io/badge/Cat%C3%A9gorie-Phishing-orange?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficult%C3%A9-Easy-brightgreen?style=flat-square) ![Status](https://img.shields.io/badge/Statut-Complété-blue?style=flat-square)
+![Category](https://img.shields.io/badge/Cat%C3%A9gorie-Phishing-6c757d?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficult%C3%A9-Easy-6c757d?style=flat-square) ![Status](https://img.shields.io/badge/Statut-Complété-6c757d?style=flat-square)
 
 ## Contexte
 Votre adresse email a fuité, et vous recevez un faux email PayPal (en allemand) — un cas classique de phishing. L'objectif est d'analyser le fichier `.eml` fourni comme le ferait un analyste SOC pour déterminer s'il est malveillant et en extraire les indicateurs de compromission (IOCs).
