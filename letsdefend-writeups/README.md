@@ -4,11 +4,9 @@ Analyses réalisées sur la plateforme [LetsDefend](https://letsdefend.io) : inv
 
 ## 🧩 Challenges
 
-*À compléter au fur et à mesure.*
-
 | Challenge | Catégorie | Résumé |
 |---|---|---|
-| *(à venir)* | | |
+| [Phishing Email](./challenges/phishing-email.md) | Phishing | Analyse d'un fichier `.eml` (faux PayPal) : en-têtes usurpés, extraction d'URL malveillante hébergée sur cloud, vérification OSINT (urlscan.io, VirusTotal) → verdict phishing confirmé |
 
 📁 [Voir le détail des challenges](./challenges)
 
