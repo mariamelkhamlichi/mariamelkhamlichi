@@ -4,11 +4,11 @@
 
 ### `Cybersecurity Student` · `Blue Team / SOC` · `Threat Hunting`
 
-![Focus](https://img.shields.io/badge/FOCUS-BLUE%20TEAM%20%2F%20SOC-2563eb?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-STAGE%20%40%20SMART%20AUTOMATION-16a34a?style=for-the-badge)
-![Location](https://img.shields.io/badge/BASE-TANGER%2C%20MAROC-6b7280?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-BLUE%20TEAM%20%2F%20SOC-334155?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-STAGE%20%40%20SMART%20AUTOMATION-334155?style=for-the-badge)
+![Location](https://img.shields.io/badge/BASE-TANGER%2C%20MAROC-334155?style=for-the-badge)
 
-[![Email](https://img.shields.io/badge/-Mariam.Elkhamlichi%40emsi--edu.ma-2563eb?style=flat-square&logo=gmail&logoColor=white)](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
+[![Email](https://img.shields.io/badge/-Mariam.Elkhamlichi%40emsi--edu.ma-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
 [![LinkedIn](https://img.shields.io/badge/-mariam--el--khamlichi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
 [![GitHub](https://img.shields.io/badge/-mariamelkhamlichi-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/mariamelkhamlichi)
 
@@ -41,23 +41,23 @@ whoami:
 
 **Cybersécurité & SOC**
 <br>
-![Nmap](https://img.shields.io/badge/-Nmap-2563eb?style=flat-square) ![Metasploit](https://img.shields.io/badge/-Metasploit-2563eb?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-2563eb?style=flat-square&logo=burpsuite&logoColor=white) ![Wazuh](https://img.shields.io/badge/-Wazuh-2563eb?style=flat-square) ![Zeek](https://img.shields.io/badge/-Zeek-2563eb?style=flat-square) ![ELK](https://img.shields.io/badge/-ELK%20Stack-2563eb?style=flat-square&logo=elastic&logoColor=white) ![MITRE](https://img.shields.io/badge/-MITRE%20ATT%26CK-2563eb?style=flat-square) ![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-2563eb?style=flat-square) ![PKI](https://img.shields.io/badge/-PKI%20%2F%20dPKI-2563eb?style=flat-square) ![Blockchain](https://img.shields.io/badge/-Blockchain-2563eb?style=flat-square)
+![Nmap](https://img.shields.io/badge/-Nmap-334155?style=flat-square) ![Metasploit](https://img.shields.io/badge/-Metasploit-334155?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-334155?style=flat-square&logo=burpsuite&logoColor=white) ![Wazuh](https://img.shields.io/badge/-Wazuh-334155?style=flat-square) ![Zeek](https://img.shields.io/badge/-Zeek-334155?style=flat-square) ![ELK](https://img.shields.io/badge/-ELK%20Stack-334155?style=flat-square&logo=elastic&logoColor=white) ![MITRE](https://img.shields.io/badge/-MITRE%20ATT%26CK-334155?style=flat-square) ![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-334155?style=flat-square) ![PKI](https://img.shields.io/badge/-PKI%20%2F%20dPKI-334155?style=flat-square) ![Blockchain](https://img.shields.io/badge/-Blockchain-334155?style=flat-square)
 
 **Réseaux & Supervision**
 <br>
-![Zabbix](https://img.shields.io/badge/-Zabbix-16a34a?style=flat-square) ![Cisco](https://img.shields.io/badge/-Cisco-16a34a?style=flat-square&logo=cisco&logoColor=white) ![VPN](https://img.shields.io/badge/-VPN%20IPsec-16a34a?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-16a34a?style=flat-square&logo=wireshark&logoColor=white) ![TLS](https://img.shields.io/badge/-TLS%201.3-16a34a?style=flat-square)
+![Zabbix](https://img.shields.io/badge/-Zabbix-334155?style=flat-square) ![Cisco](https://img.shields.io/badge/-Cisco-334155?style=flat-square&logo=cisco&logoColor=white) ![VPN](https://img.shields.io/badge/-VPN%20IPsec-334155?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-334155?style=flat-square&logo=wireshark&logoColor=white) ![TLS](https://img.shields.io/badge/-TLS%201.3-334155?style=flat-square)
 
 **Développement & Scripting**
 <br>
-![Python](https://img.shields.io/badge/-Python-6b7280?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-6b7280?style=flat-square&logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-6b7280?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-6b7280?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-6b7280?style=flat-square&logo=gnubash&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-6b7280?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-334155?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-334155?style=flat-square&logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-334155?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-334155?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-334155?style=flat-square&logo=gnubash&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-334155?style=flat-square&logo=php&logoColor=white)
 
 **Systèmes & Virtualisation**
 <br>
-![Linux](https://img.shields.io/badge/-Linux%20(Kali%2C%20Ubuntu)-7c3aed?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-7c3aed?style=flat-square&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-7c3aed?style=flat-square&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-7c3aed?style=flat-square&logo=proxmox&logoColor=white) ![Git](https://img.shields.io/badge/-Git%2FGitHub-7c3aed?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux%20(Kali%2C%20Ubuntu)-334155?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-334155?style=flat-square&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-334155?style=flat-square&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-334155?style=flat-square&logo=proxmox&logoColor=white) ![Git](https://img.shields.io/badge/-Git%2FGitHub-334155?style=flat-square&logo=git&logoColor=white)
 
 **Bases de données & Conception**
 <br>
-![SQL](https://img.shields.io/badge/-SQL-be185d?style=flat-square&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-be185d?style=flat-square&logo=mongodb&logoColor=white) ![UML](https://img.shields.io/badge/-UML%20%2F%20Merise-be185d?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-334155?style=flat-square&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-334155?style=flat-square&logo=mongodb&logoColor=white) ![UML](https://img.shields.io/badge/-UML%20%2F%20Merise-334155?style=flat-square)
 
 <br>
 
