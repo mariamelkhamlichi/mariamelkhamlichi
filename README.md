@@ -28,36 +28,20 @@ whoami:
 
 ## 🎯 Domaines
 
-| | |
-|---|---|
-| 🔵 **Blue Team / SOC** | Détection d'intrusion, analyse de logs, opérations SOC |
-| 🕵️ **Threat Hunting** | MITRE ATT&CK, SIEM (ELK, Wazuh), Threat Intelligence |
-| 🌐 **Réseaux & Supervision** | Wireshark, Zabbix, pare-feu, VPN IPsec |
-| 🔐 **Cryptographie & Blockchain** | PKI / dPKI |
+- 🔵 **Blue Team / SOC** — détection d'intrusion, analyse de logs, opérations SOC
+- 🕵️ **Threat Hunting** — MITRE ATT&CK, SIEM (ELK, Wazuh), Threat Intelligence
+- 🌐 **Réseaux & Supervision** — Wireshark, Zabbix, pare-feu, VPN IPsec
+- 🔐 **Cryptographie & Blockchain** — PKI / dPKI
 
 <br>
 
 ## 🧰 Arsenal technique
 
-**Cybersécurité & SOC**
-<br>
-Nmap, Metasploit, Burp Suite, Wazuh, Zeek, ELK Stack, MITRE ATT&CK, Threat Hunting, PKI / dPKI, Blockchain
-
-**Réseaux & Supervision**
-<br>
-Zabbix, Cisco, VPN IPsec, Wireshark, TLS 1.3
-
-**Développement & Scripting**
-<br>
-Python, Java, C#, C++, Bash, PHP
-
-**Systèmes & Virtualisation**
-<br>
-Linux (Kali, Ubuntu), Docker, VMware, Proxmox, Git/GitHub
-
-**Bases de données & Conception**
-<br>
-SQL, NoSQL, UML / Merise
+- 🛡️ **Cybersécurité & SOC** : Nmap, Metasploit, Burp Suite, Wazuh, Zeek, ELK Stack, MITRE ATT&CK, Threat Hunting, PKI / dPKI, Blockchain
+- 🌐 **Réseaux & Supervision** : Zabbix, Cisco, VPN IPsec, Wireshark, TLS 1.3
+- 💻 **Développement & Scripting** : Python, Java, C#, C++, Bash, PHP
+- 🖥️ **Systèmes & Virtualisation** : Linux (Kali, Ubuntu), Docker, VMware, Proxmox, Git/GitHub
+- 🗄️ **Bases de données & Conception** : SQL, NoSQL, UML / Merise
 
 <br>
 
