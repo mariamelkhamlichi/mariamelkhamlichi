@@ -41,23 +41,23 @@ whoami:
 
 **Cybersécurité & SOC**
 <br>
-![Nmap](https://img.shields.io/badge/-Nmap-334155?style=flat-square) ![Metasploit](https://img.shields.io/badge/-Metasploit-334155?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-334155?style=flat-square&logo=burpsuite&logoColor=white) ![Wazuh](https://img.shields.io/badge/-Wazuh-334155?style=flat-square) ![Zeek](https://img.shields.io/badge/-Zeek-334155?style=flat-square) ![ELK](https://img.shields.io/badge/-ELK%20Stack-334155?style=flat-square&logo=elastic&logoColor=white) ![MITRE](https://img.shields.io/badge/-MITRE%20ATT%26CK-334155?style=flat-square) ![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-334155?style=flat-square) ![PKI](https://img.shields.io/badge/-PKI%20%2F%20dPKI-334155?style=flat-square) ![Blockchain](https://img.shields.io/badge/-Blockchain-334155?style=flat-square)
+Nmap, Metasploit, Burp Suite, Wazuh, Zeek, ELK Stack, MITRE ATT&CK, Threat Hunting, PKI / dPKI, Blockchain
 
 **Réseaux & Supervision**
 <br>
-![Zabbix](https://img.shields.io/badge/-Zabbix-334155?style=flat-square) ![Cisco](https://img.shields.io/badge/-Cisco-334155?style=flat-square&logo=cisco&logoColor=white) ![VPN](https://img.shields.io/badge/-VPN%20IPsec-334155?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-334155?style=flat-square&logo=wireshark&logoColor=white) ![TLS](https://img.shields.io/badge/-TLS%201.3-334155?style=flat-square)
+Zabbix, Cisco, VPN IPsec, Wireshark, TLS 1.3
 
 **Développement & Scripting**
 <br>
-![Python](https://img.shields.io/badge/-Python-334155?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-334155?style=flat-square&logo=openjdk&logoColor=white) ![C%23](https://img.shields.io/badge/-C%23-334155?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-334155?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-334155?style=flat-square&logo=gnubash&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-334155?style=flat-square&logo=php&logoColor=white)
+Python, Java, C#, C++, Bash, PHP
 
 **Systèmes & Virtualisation**
 <br>
-![Linux](https://img.shields.io/badge/-Linux%20(Kali%2C%20Ubuntu)-334155?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-334155?style=flat-square&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-334155?style=flat-square&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-334155?style=flat-square&logo=proxmox&logoColor=white) ![Git](https://img.shields.io/badge/-Git%2FGitHub-334155?style=flat-square&logo=git&logoColor=white)
+Linux (Kali, Ubuntu), Docker, VMware, Proxmox, Git/GitHub
 
 **Bases de données & Conception**
 <br>
-![SQL](https://img.shields.io/badge/-SQL-334155?style=flat-square&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-334155?style=flat-square&logo=mongodb&logoColor=white) ![UML](https://img.shields.io/badge/-UML%20%2F%20Merise-334155?style=flat-square)
+SQL, NoSQL, UML / Merise
 
 <br>
 
