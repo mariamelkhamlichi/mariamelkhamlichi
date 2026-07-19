@@ -1,6 +1,6 @@
 # 🛡️ SOC Analyst Learning Path
 
-**Rôle :** Security Analyst · **Difficulté :** Medium · **Statut :** 🔵 En cours (8%)
+**Rôle :** Security Analyst · **Difficulté :** Medium · **Statut :** 🔵 En cours (2/25 modules)
 **Récompenses :** Badge + Certificat "SOC Analyst Learning Path"
 
 Parcours [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path) couvrant les compétences techniques nécessaires pour une carrière en Security Operations Center (SOC) : outils SIEM/EDR, détection de menaces, réponse à incidents, threat intelligence, analyse de malware et forensics.
@@ -18,7 +18,7 @@ Parcours [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path) 
 | # | Module | Contenu | Notes |
 |---|---|---|---|
 | 1 | SOC Fundamentals | 9 Lesson · 11 Question · 1 Quiz | ✅ [Voir](./01-SOC-Fundamentals) |
-| 2 | Cyber Kill Chain | 9 Lesson · 13 Question · 1 Quiz | *à venir* |
+| 2 | Cyber Kill Chain | 9 Lesson · 13 Question · 1 Quiz | ✅ [Voir](./02-Cyber-Kill-Chain) |
 | 3 | MITRE ATT&CK Framework | 8 Lesson · 19 Question · 1 Quiz | *à venir* |
 | 4 | Phishing Email Analysis | 7 Lesson · 11 Question · 1 Challenge · 1 Quiz · 4 Alert | *à venir* |
 | 5 | Detecting Web Attacks | 9 Lesson · 27 Question · 2 Challenge · 6 Alert | *à venir* |
