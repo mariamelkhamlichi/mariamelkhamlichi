@@ -55,26 +55,26 @@ whoami:
 
 **Stage PFA — Amendis** · *Juillet - Août 2025*
 Déploiement d'un SOC open-source (Wazuh) pour sécuriser les environnements OT de la DSI. Virtualisation (VMware), configuration centralisée des agents et mise en œuvre de tests de sécurité (FIM, vulnérabilités).
-📁 [Voir le repo](https://github.com/mariamelkhamlichi/stage-amendis-soc-wazuh)
+📁 [Voir le projet](./stages/amendis-soc-wazuh)
 
 **Stage d'observation — ONDA** · *Septembre 2025*
 Exploration des SI critiques (SOAM, CADAS) de planification des vols. Analyse des flux de données sensibles et sensibilisation aux impératifs de cybersécurité pour la continuité des opérations.
-📁 [Voir le repo](https://github.com/mariamelkhamlichi/stage-onda-observation)
+📁 [Voir le projet](./stages/onda-observation)
 
 ---
 
 ## 🚀 Projets
 
-**[Optimisation d'un SIEM — Réduction des Faux Positifs](https://github.com/mariamelkhamlichi/optimisation-siem-faux-positifs)**
+**[Optimisation d'un SIEM — Réduction des Faux Positifs](./projets/optimisation-siem)**
 Analyse du bruit de fond, intégration de Threat Intelligence et ajustement des règles de corrélation pour réduire les fausses alertes.
 
-**[Écosystème de Détection Résilient (MITRE ATT&CK)](https://github.com/mariamelkhamlichi/ecosysteme-detection-mitre-attack)**
+**[Écosystème de Détection Résilient (MITRE ATT&CK)](./projets/ecosysteme-detection-mitre)**
 Pipeline d'ingestion de logs haute disponibilité (Logstash, RabbitMQ), cartographie de couverture avec DeTTECT, règles d'alerte via ELK et ElastAlert.
 
-**[Supervision d'Infrastructure & Monitoring (Zabbix)](https://github.com/mariamelkhamlichi/supervision-zabbix)**
+**[Supervision d'Infrastructure & Monitoring (Zabbix)](./projets/supervision-zabbix)**
 Supervision centralisée réseaux/serveurs, dashboards sur mesure, triggers et alertes automatisées.
 
-**[SanadChain](https://github.com/mariamelkhamlichi/sanadchain)**
+**[SanadChain](./projets/sanadchain)**
 Infrastructure à clés publiques décentralisée (dPKI) basée sur la blockchain pour sécuriser les registres fonciers marocains.
 
 ---
