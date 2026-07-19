@@ -55,50 +55,46 @@ whoami:
 
 **Stage PFA — Amendis** · *Juillet - Août 2025*
 Déploiement d'un SOC open-source (Wazuh) pour sécuriser les environnements OT de la DSI. Virtualisation (VMware), configuration centralisée des agents et mise en œuvre de tests de sécurité (FIM, vulnérabilités).
-📁 [Voir le projet](./stages/amendis-soc-wazuh)
+📁 [Voir le repo](https://github.com/mariamelkhamlichi/stage-amendis-soc-wazuh)
 
 **Stage d'observation — ONDA** · *Septembre 2025*
 Exploration des SI critiques (SOAM, CADAS) de planification des vols. Analyse des flux de données sensibles et sensibilisation aux impératifs de cybersécurité pour la continuité des opérations.
-📁 [Voir le projet](./stages/onda-observation)
+📁 [Voir le repo](https://github.com/mariamelkhamlichi/stage-onda-observation)
 
 ---
 
 ## 🚀 Projets
 
-**[Optimisation d'un SIEM — Réduction des Faux Positifs](./projets/optimisation-siem)**
+**[Optimisation d'un SIEM — Réduction des Faux Positifs](https://github.com/mariamelkhamlichi/optimisation-siem-faux-positifs)**
 Analyse du bruit de fond, intégration de Threat Intelligence et ajustement des règles de corrélation pour réduire les fausses alertes.
 
-**[Écosystème de Détection Résilient (MITRE ATT&CK)](./projets/ecosysteme-detection-mitre)**
+**[Écosystème de Détection Résilient (MITRE ATT&CK)](https://github.com/mariamelkhamlichi/ecosysteme-detection-mitre-attack)**
 Pipeline d'ingestion de logs haute disponibilité (Logstash, RabbitMQ), cartographie de couverture avec DeTTECT, règles d'alerte via ELK et ElastAlert.
 
-**[Supervision d'Infrastructure & Monitoring (Zabbix)](./projets/supervision-zabbix)**
+**[Supervision d'Infrastructure & Monitoring (Zabbix)](https://github.com/mariamelkhamlichi/supervision-zabbix)**
 Supervision centralisée réseaux/serveurs, dashboards sur mesure, triggers et alertes automatisées.
 
-**[SanadChain](./projets/sanadchain)**
+**[SanadChain](https://github.com/mariamelkhamlichi/sanadchain)**
 Infrastructure à clés publiques décentralisée (dPKI) basée sur la blockchain pour sécuriser les registres fonciers marocains.
 
 ---
 
 ## 🛡️ LetsDefend Writeups
 
-Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.io).
+Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.io) — repo dédié : **[letsdefend-writeups](https://github.com/mariamelkhamlichi/letsdefend-writeups)**
 
 | Challenge | Catégorie | Difficulté | Writeup |
 |---|---|---|---|
-| 🎣 **Phishing Email** | Email Analysis / Phishing | Easy | [Lire →](./letsdefend-writeups/phishing-email) |
-| 🌐 **PCAP Analysis** | Network Forensics | Easy | [Lire →](./letsdefend-writeups/pcap-analysis) |
-
-📁 [Voir tous les writeups](./letsdefend-writeups)
+| 🎣 **Phishing Email** | Email Analysis / Phishing | Easy | [Lire →](https://github.com/mariamelkhamlichi/letsdefend-writeups/tree/main/phishing-email) |
+| 🌐 **PCAP Analysis** | Network Forensics | Easy | [Lire →](https://github.com/mariamelkhamlichi/letsdefend-writeups/tree/main/pcap-analysis) |
 
 ## 🎓 LetsDefend — Learning Paths
 
-Progression sur les parcours de formation structurés LetsDefend.
+Progression sur les parcours de formation structurés LetsDefend — repo dédié : **[letsdefend-soc-analyst-path](https://github.com/mariamelkhamlichi/letsdefend-soc-analyst-path)**
 
 | Path | Rôle | Statut | Détail |
 |---|---|---|---|
-| SOC Analyst Learning Path | Security Analyst | 🔵 En cours (8%) | [Voir →](./letsdefend-paths/soc-analyst-learning-path) |
-
-📁 [Voir tous les paths](./letsdefend-paths)
+| SOC Analyst Learning Path | Security Analyst | 🔵 En cours (2/25 modules) | [Voir →](https://github.com/mariamelkhamlichi/letsdefend-soc-analyst-path/tree/main/soc-analyst-learning-path) |
 
 ---
 
