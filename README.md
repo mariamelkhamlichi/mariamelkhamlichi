@@ -90,6 +90,16 @@ Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.i
 
 📁 [Voir tous les writeups](./letsdefend-writeups)
 
+## 🎓 LetsDefend — Learning Paths
+
+Progression sur les parcours de formation structurés LetsDefend.
+
+| Path | Rôle | Statut | Détail |
+|---|---|---|---|
+| SOC Analyst Learning Path | Security Analyst | 🔵 En cours (8%) | [Voir →](./letsdefend-paths/soc-analyst-learning-path) |
+
+📁 [Voir tous les paths](./letsdefend-paths)
+
 ---
 
 ## 🎓 Certifications
