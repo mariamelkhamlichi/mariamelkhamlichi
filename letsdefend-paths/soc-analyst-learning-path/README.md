@@ -17,7 +17,7 @@ Parcours [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path) 
 
 | # | Module | Contenu | Notes |
 |---|---|---|---|
-| 1 | SOC Fundamentals | 9 Lesson · 11 Question · 1 Quiz | *à venir* |
+| 1 | SOC Fundamentals | 9 Lesson · 11 Question · 1 Quiz | ✅ [Voir](./01-SOC-Fundamentals) |
 | 2 | Cyber Kill Chain | 9 Lesson · 13 Question · 1 Quiz | *à venir* |
 | 3 | MITRE ATT&CK Framework | 8 Lesson · 19 Question · 1 Quiz | *à venir* |
 | 4 | Phishing Email Analysis | 7 Lesson · 11 Question · 1 Challenge · 1 Quiz · 4 Alert | *à venir* |
@@ -43,13 +43,16 @@ Parcours [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path) 
 | 24 | Building a Malware Analysis Lab | 6 Lesson · 10 Question | *à venir* |
 | 25 | Building a SOC Lab at Home | 5 Lesson · 5 Question | *à venir* |
 
-*Les notes de chaque module seront ajoutées au fur et à mesure de leur complétion, avec un lien vers un fichier dédié dans `./modules/`.*
+*Les notes de chaque module seront ajoutées au fur et à mesure de leur complétion, dans un dossier dédié par module.*
 
 ## 📂 Structure
 
 ```
 soc-analyst-learning-path/
-├── README.md          # Cette page (vue d'ensemble + progression)
-└── modules/
-    └── <NN-nom-du-module>.md   # Notes détaillées par module
+├── README.md                  # Cette page (vue d'ensemble + progression)
+└── 01-SOC-Fundamentals/       # Un dossier par module
+    ├── README.md               # Résumé du module + liste des leçons
+    ├── 01-Introduction-to-SOC.md
+    ├── 02-SOC-Types-and-Roles.md
+    └── ...                      # Une note par leçon/quiz
 ```
