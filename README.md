@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Mariam El Khamlichi
+# Mariam El Khamlichi
 
 ### `Cybersecurity Student` · `Blue Team / SOC` · `Threat Hunting`
 
