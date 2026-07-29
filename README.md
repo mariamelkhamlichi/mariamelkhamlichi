@@ -111,12 +111,9 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 
 Arabe (maternelle) · Français (courant) · Anglais (courant)
 
-<br>
-
-<div align="center">
-
 ---
 
-📫 **[Email](mailto:Mariam.Elkhamlichi@emsi-edu.ma)** · **[LinkedIn](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)**
+## 📫 Contact
 
-</div>
+- 📧 [Email](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
