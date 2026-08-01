@@ -83,7 +83,7 @@ Infrastructure à clés publiques décentralisée (dPKI) basée sur la blockchai
 
 ## 🛡️ LetsDefend Writeups
 
-Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.io) — repo dédié : **[letsdefend-writeups](https://github.com/mariamelkhamlichi/letsdefend-writeups)**
+Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.io) — repo dédié : **[letsdefend-writeups](https://github.com/mariamelkhamlichi/letsdefend-writeups)** *(mis à jour au fil des challenges résolus)*
 
 | Challenge | Catégorie | Difficulté | Writeup |
 |---|---|---|---|
