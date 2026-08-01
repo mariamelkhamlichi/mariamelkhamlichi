@@ -90,6 +90,8 @@ Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.i
 | 🎣 **Phishing Email** | Email Analysis / Phishing | Easy | [Lire →](https://github.com/mariamelkhamlichi/letsdefend-writeups/tree/main/phishing-email) |
 | 🌐 **PCAP Analysis** | Network Forensics | Easy | [Lire →](https://github.com/mariamelkhamlichi/letsdefend-writeups/tree/main/pcap-analysis) |
 
+---
+
 ## 🎓 LetsDefend — Learning Paths
 
 Progression sur les parcours de formation structurés LetsDefend — repo dédié : **[letsdefend-soc-analyst-path](https://github.com/mariamelkhamlichi/letsdefend-soc-analyst-path)**
