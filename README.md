@@ -26,6 +26,8 @@ whoami:
 
 <br>
 
+---
+
 ## 🎯 Domaines
 
 | | |
