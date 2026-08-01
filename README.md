@@ -121,3 +121,4 @@ Arabe (maternelle) · Français (courant) · Anglais (courant)
 
 - 📧 [Email](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
+- 📍 Tanger, Maroc
