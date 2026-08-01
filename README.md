@@ -94,7 +94,7 @@ Mes analyses de challenges SOC / Blue Team sur [LetsDefend](https://letsdefend.i
 
 ## 🎓 LetsDefend — Learning Paths
 
-Progression sur les parcours de formation structurés LetsDefend — repo dédié : **[letsdefend-soc-analyst-path](https://github.com/mariamelkhamlichi/letsdefend-soc-analyst-path)**
+Progression sur les parcours de formation structurés LetsDefend — repo dédié : **[letsdefend-soc-analyst-path](https://github.com/mariamelkhamlichi/letsdefend-soc-analyst-path)** *(mis à jour au fil des modules complétés)*
 
 | Path | Rôle | Statut | Détail |
 |---|---|---|---|
