@@ -114,7 +114,9 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 
 ## 🌐 Langues
 
-Arabe (maternelle) · Français (courant) · Anglais (courant)
+- 🇲🇦 Arabe — maternelle
+- 🇫🇷 Français — courant
+- 🇬🇧 Anglais — courant
 
 ---
 
