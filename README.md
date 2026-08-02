@@ -65,7 +65,7 @@ Exploration des SI critiques (SOAM, CADAS) de planification des vols. Analyse de
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets académiques & personnels
 
 **[Optimisation d'un SIEM — Réduction des Faux Positifs](./projets/optimisation-siem)**
 Analyse du bruit de fond, intégration de Threat Intelligence et ajustement des règles de corrélation pour réduire les fausses alertes.
