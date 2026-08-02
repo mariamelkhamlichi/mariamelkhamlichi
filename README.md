@@ -102,7 +102,7 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 
 ---
 
-## 🎓 Certifications
+## 📜 Certifications
 
 - Microsoft AZ-500 *(en cours)*
 - Microsoft SC-200 *(en cours)*
