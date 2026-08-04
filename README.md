@@ -40,7 +40,7 @@ whoami:
 
 <br>
 
-## 🧰 Arsenal technique
+## 🧰 Compétences techniques
 
 - 🛡️ **Cybersécurité & SOC** : Nmap, Metasploit, Burp Suite, Wazuh, Zeek, ELK Stack, MITRE ATT&CK, Threat Hunting, PKI / dPKI, Blockchain
 - 🌐 **Réseaux & Supervision** : Zabbix, Cisco, VPN IPsec, Wireshark, TLS 1.3
