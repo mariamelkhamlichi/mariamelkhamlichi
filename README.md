@@ -52,7 +52,7 @@ whoami:
 
 ---
 
-## 💼 Expérience professionnelle
+## 💼 Expérience professionnelle & stages
 
 **🟢 Stage — Smart Automation Technologies** *(en cours)*
 
