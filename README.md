@@ -2,7 +2,7 @@
 
 # Mariam El Khamlichi
 
-### `Cybersecurity Student` · `Blue Team / SOC` · `Threat Hunting`
+### `Cybersecurity Engineering Student` · `Blue Team / SOC` · `Threat Hunting` · `Incident Response`
 
 ![Focus](https://img.shields.io/badge/FOCUS-BLUE%20TEAM%20%2F%20SOC-334155?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-STAGE%20%40%20SMART%20AUTOMATION-334155?style=for-the-badge)
