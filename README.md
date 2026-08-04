@@ -129,5 +129,5 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 ---
 
 <div align="center">
-<sub>Ouverte aux opportunités en cybersécurité défensive · SOC · Blue Team</sub>
+<sub>🔎 Ouverte aux opportunités en cybersécurité défensive · SOC · Blue Team · Threat Hunting</sub>
 </div>
