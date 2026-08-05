@@ -18,7 +18,7 @@
 
 ```yaml
 whoami:
-  role: "Élève ingénieure en cybersécurité — 4ème année"
+  role: "Élève ingénieure en cybersécurité — 4ème année (EMSI)"
   school: "EMSI - École Marocaine des Sciences de l'Ingénieur, Tanger"
   current: "Stage @ Smart Automation Technologies"
   interests: ["SOC", "Détection d'intrusion", "Threat Hunting", "Tests d'intrusion"]
