@@ -33,7 +33,7 @@ whoami:
 
 | | |
 |---|---|
-| 🔵 **Blue Team / SOC** | Détection d'intrusion, analyse de logs, opérations SOC |
+| 🔵 **Blue Team / SOC** | Détection d'intrusion, analyse de logs, réponse à incidents |
 | 🕵️ **Threat Hunting** | MITRE ATT&CK, SIEM (ELK, Wazuh), Threat Intelligence |
 | 🌐 **Réseaux & Supervision** | Wireshark, Zabbix, pare-feu, VPN IPsec |
 | 🔐 **Cryptographie & Blockchain** | PKI / dPKI, sécurisation des registres |
