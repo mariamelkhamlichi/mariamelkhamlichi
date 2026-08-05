@@ -46,7 +46,7 @@ whoami:
 - 🌐 **Réseaux & Supervision** : Zabbix, Cisco, VPN IPsec, Wireshark, TLS 1.3, pare-feu
 - 💻 **Développement & Scripting** : Python, Java, C#, C++, Bash, PHP
 - 🖥️ **Systèmes & Virtualisation** : Linux (Kali, Ubuntu), Docker, VMware, Proxmox, Git/GitHub
-- 🗄️ **Bases de données & Conception** : SQL, NoSQL, UML / Merise
+- 🗄️ **Bases de données & Conception** : SQL, NoSQL, UML / Merise, conception logicielle
 
 <br>
 
