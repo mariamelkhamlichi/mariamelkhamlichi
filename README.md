@@ -43,7 +43,7 @@ whoami:
 ## 🧰 Compétences techniques
 
 - 🛡️ **Cybersécurité & SOC** : Nmap, Metasploit, Burp Suite, Wazuh, Zeek, ELK Stack, MITRE ATT&CK, Threat Hunting, PKI / dPKI, Blockchain
-- 🌐 **Réseaux & Supervision** : Zabbix, Cisco, VPN IPsec, Wireshark, TLS 1.3
+- 🌐 **Réseaux & Supervision** : Zabbix, Cisco, VPN IPsec, Wireshark, TLS 1.3, pare-feu
 - 💻 **Développement & Scripting** : Python, Java, C#, C++, Bash, PHP
 - 🖥️ **Systèmes & Virtualisation** : Linux (Kali, Ubuntu), Docker, VMware, Proxmox, Git/GitHub
 - 🗄️ **Bases de données & Conception** : SQL, NoSQL, UML / Merise
