@@ -1,26 +1,31 @@
 <div align="center">
 
+# Mariam El Khamlichi
 
-# 🛡️ Mariam El Khamlichi
+### `Cybersecurity Engineering Student` · `Blue Team / SOC` · `Threat Hunting` · `Incident Response`
 
-### `Élève Ingénieure en Cybersécurité @ EMSI` · `Blue Team` · `SOC & Threat Hunting`
+![Focus](https://img.shields.io/badge/FOCUS-BLUE%20TEAM%20%2F%20SOC-334155?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-STAGE%20%40%20SMART%20AUTOMATION-334155?style=for-the-badge)
+![Location](https://img.shields.io/badge/BASE-TANGER%2C%20MAROC-334155?style=for-the-badge)
 
-<br>
+[![Email](https://img.shields.io/badge/-Mariam.Elkhamlichi%40emsi--edu.ma-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
+[![LinkedIn](https://img.shields.io/badge/-mariam--el--khamlichi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
+[![GitHub](https://img.shields.io/badge/-mariamelkhamlichi-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/mariamelkhamlichi)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamelkhamlichi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
+</div>
 
 <br>
 
 ```yaml
 whoami:
-  role: "Élève ingénieure en cybersécurité — 4ème année (EMSI Tanger)"
-  current_status: "Stage @ Smart Automation Technologies"
-  focus_areas: ["SOC Operations", "Threat Hunting", "Incident Response", "SIEM Engineering"]
-  certifications_in_progress: ["Microsoft SC-200", "Microsoft AZ-500"]
-  learning_path: "LetsDefend — SOC Analyst Track"
-  location: "Tanger, Maroc"
+  role: "Élève ingénieure en cybersécurité — 4ème année (EMSI)"
+  school: "EMSI - École Marocaine des Sciences de l'Ingénieur, Tanger"
+  current: "Stage @ Smart Automation Technologies"
+  interests: ["SOC", "Détection d'intrusion", "Threat Hunting", "Tests d'intrusion"]
+  learning: "LetsDefend — SOC Analyst Learning Path"
+```
+
+<br>
 
 ---
 
