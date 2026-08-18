@@ -116,7 +116,7 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 
 - 🇲🇦 Arabe — maternelle
 - 🇫🇷 Français — courant
-- 🇬🇧 Anglais — courant (technique)
+- 🇬🇧 Anglais — courant 
 
 ---
 
