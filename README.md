@@ -127,14 +127,27 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 
 ---
 
+## 📊 GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mariamelkhamlichi&show_icons=true&hide_border=true&title_color=c084fc&icon_color=f472b6&text_color=8b5cf6&bg_color=fdf4ff" alt="stats" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamelkhamlichi&hide_border=true&background=fdf4ff&stroke=c084fc&ring=f472b6&fire=f472b6&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=a78bfa&currStreakNum=c084fc&sideNums=c084fc" alt="streak" />
+
+</div>
+
+---
+
 ## 📫 Contact
 
 - 📧 [Email](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
 - 📍 Tanger, Maroc (Ouverte à la rélocalisation)
 
----
+<br>
 
 <div align="center">
 <sub>🔎 Ouverte aux opportunités en cybersécurité défensive · SOC · Blue Team · Threat Hunting</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:c084fc,100:f9a8d4&height=100&section=footer" width="100%" alt="footer" />
 </div>
