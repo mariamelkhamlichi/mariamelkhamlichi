@@ -1,16 +1,24 @@
 <div align="center">
 
-# Mariam El Khamlichi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:c084fc,100:a78bfa&height=200&section=header&text=Mariam%20El%20Khamlichi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20·%20Blue%20Team%20%2F%20SOC&descSize=18&descAlignY=60&descColor=fdf4ff" width="100%" alt="Mariam El Khamlichi" />
 
-### `Cybersecurity Engineering Student` · `Blue Team / SOC` · `Threat Hunting` · `Incident Response`
+<a href="https://github.com/mariamelkhamlichi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Blue+Team+%2F+SOC+Analyst+in+training;Threat+Hunting+%E2%80%A2+Incident+Response;Detecting+what+others+miss+%F0%9F%94%8D;Defending+critical+infrastructures+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-![Focus](https://img.shields.io/badge/FOCUS-BLUE%20TEAM%20%2F%20SOC-334155?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-STAGE%20%40%20SMART%20AUTOMATION-334155?style=for-the-badge)
-![Location](https://img.shields.io/badge/BASE-TANGER%2C%20MAROC-334155?style=for-the-badge)
+<br>
 
-[![Email](https://img.shields.io/badge/-Mariam.Elkhamlichi%40emsi--edu.ma-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
-[![LinkedIn](https://img.shields.io/badge/-mariam--el--khamlichi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
-[![GitHub](https://img.shields.io/badge/-mariamelkhamlichi-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/mariamelkhamlichi)
+![Focus](https://img.shields.io/badge/FOCUS-BLUE%20TEAM%20%2F%20SOC-c084fc?style=for-the-badge&labelColor=f9a8d4)
+![Status](https://img.shields.io/badge/STATUS-STAGE%20%40%20SMART%20AUTOMATION-c084fc?style=for-the-badge&labelColor=f9a8d4)
+![Location](https://img.shields.io/badge/BASE-TANGER%2C%20MAROC-c084fc?style=for-the-badge&labelColor=f9a8d4)
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
+[![GitHub](https://img.shields.io/badge/GitHub-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamelkhamlichi)
+
+<img src="https://komarev.com/ghpvc/?username=mariamelkhamlichi&label=Profile%20views&color=f9a8d4&style=flat" alt="views" />
 
 </div>
 
