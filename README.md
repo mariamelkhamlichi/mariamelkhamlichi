@@ -127,17 +127,6 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mariamelkhamlichi&show_icons=true&hide_border=true&title_color=c084fc&icon_color=f472b6&text_color=8b5cf6&bg_color=fdf4ff" alt="stats" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamelkhamlichi&hide_border=true&background=fdf4ff&stroke=c084fc&ring=f472b6&fire=f472b6&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=a78bfa&currStreakNum=c084fc&sideNums=c084fc" alt="streak" />
-
-</div>
-
----
-
 ## 📫 Contact
 
 - 📧 [Email](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
