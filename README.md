@@ -16,7 +16,6 @@
 
 [![Email](https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mariam.Elkhamlichi@emsi-edu.ma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-el-khamlichi-57a064322/)
-[![GitHub](https://img.shields.io/badge/GitHub-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamelkhamlichi)
 
 <img src="https://komarev.com/ghpvc/?username=mariamelkhamlichi&label=Profile%20views&color=f9a8d4&style=flat" alt="views" />
 
