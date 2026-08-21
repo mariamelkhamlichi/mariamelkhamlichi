@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:c084fc,100:a78bfa&height=200&section=header&text=Mariam%20El%20Khamlichi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20·%20Blue%20Team%20%2F%20SOC&descSize=18&descAlignY=60&descColor=fdf4ff" width="100%" alt="Mariam El Khamlichi" />
 
-<a href="https://github.com/mariamelkhamlichi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=600&lines=Blue+Team+%2F+SOC+Analyst+in+training;Threat+Hunting+%E2%80%A2+Incident+Response;Detecting+what+others+miss+%F0%9F%94%8D;Defending+critical+infrastructures+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</a>
+**🛡️ Blue Team / SOC Analyst in training · Threat Hunting · Incident Response**
+
+*Detecting what others miss — defending critical infrastructures 🔍*
 
 <br>
 
