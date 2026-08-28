@@ -112,7 +112,6 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 
 ## 📜 Certifications
 
-- Microsoft AZ-500 *(en cours)*
 - Microsoft SC-200 *(en cours)*
 - Fundamentals of Blockchain Architecture — LearnQuest
 - Agile Project Management — Google
