@@ -117,6 +117,7 @@ Progression sur les parcours de formation structurés LetsDefend — repo dédi�
 - Agile Project Management — Google
 - Introduction to Machine Learning — Duke University
 - Introduction to NoSQL Databases — IBM
+- certif iso27001
 
 ## 🌐 Langues
 
