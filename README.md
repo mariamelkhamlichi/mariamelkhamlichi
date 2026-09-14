@@ -75,6 +75,10 @@ Exploration des SI critiques (SOAM, CADAS) de planification des vols. Analyse de
 
 ## 🚀 Projets académiques & personnels
 
+**[Système hybride de détection et de triage d'intrusions par IA pour un SOC](https://github.com/soc-ai-intrusion-detection/systeme-hybride-detection-triage-intrusions-ia-soc)** · *Projet collaboratif avec Maimouni Mohammed*
+
+Prototype de cybersécurité défensive combinant règles de détection, Random Forest et détection d'anomalies pour analyser le trafic réseau, prioriser les alertes et assister les analystes SOC.
+
 **[Optimisation d'un SIEM — Réduction des Faux Positifs](./projets/optimisation-siem)**
 Analyse du bruit de fond, intégration de Threat Intelligence et ajustement des règles de corrélation pour réduire les fausses alertes.
 
